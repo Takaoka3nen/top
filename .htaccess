@@ -1,4 +1,4 @@
-AuthUserFile /home/path../.htpasswd
+AuthUserFile /home/top/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Input ID and Password."
 AuthType Basic
