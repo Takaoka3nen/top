@@ -1,10 +1,11 @@
 body{
     background: center;
-    background-image: url(https://github.com/Takaoka3nen/top/blob/main/css/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2/b1.jpg?raw=true);
+    background-image: url(media/b1.jpg);
 }
 
 .title{
     font-family: 'Rampart One', cursive;
+    /* font-family: 'Noto Serif JP', serif; */
     font-size: 50px;
     width: 100%;
     text-align: center;
@@ -27,8 +28,8 @@ body{
       padding-left: 0;
       margin-left: auto;
       margin-right: auto;
-      font-family: 'Yusei Magic', sans-serif;
-      }
+      font-family: 'Noto Serif JP', serif;
+    }
 
   .li1 {
       /* background:#afeeee; */
@@ -158,14 +159,13 @@ body{
 .tetip{
   font-size: 30px;
   text-align: center;
-  font-family: 'Yusei Magic', sans-serif;
-
+  font-family: 'Noto Serif JP', serif;
 }
 
 .tetip2{
   font-size: 20px;
   text-align: center;
-  font-family: 'Yusei Magic', sans-serif;
+  font-family: 'Noto Serif JP', serif;  
   color: rgba(0, 0, 0, 0.658);
 }
 
@@ -192,7 +192,7 @@ body{
   padding-top: 1%;
   padding-bottom: 1%;
   font-size: 20px;
-  font-family: 'Yusei Magic', sans-serif;
+  font-family: 'Noto Serif JP', serif;
 }
 
 .sosim23{
@@ -203,7 +203,7 @@ body{
   padding-top: 1%;
   padding-bottom: 1%;
   font-size: 20px;
-  font-family: 'Yusei Magic', sans-serif;
+  font-family: 'Noto Serif JP', serif;  
   color: red;
 }
 
@@ -215,7 +215,7 @@ body{
   padding-top: 1%;
   padding-bottom: 1%;
   font-size: 20px;
-  font-family: 'Yusei Magic', sans-serif;
+  font-family: 'Noto Serif JP', serif;
   color: blue;
 }
 
@@ -225,7 +225,7 @@ body{
 
 .kakudai{
   font-size: 23px;
-  font-family: 'Yusei Magic', sans-serif;
+  font-family: 'Noto Serif JP', serif;
 }
 
 .kaku{
